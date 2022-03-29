@@ -4,7 +4,7 @@
   Flutter-Amazon-UI
 </h3>
 <p align="center">
-    <img src="./assets/amazon/Amazon.png" alt="Logo" height=460>
+    <img src="./assets/images/amazon/Amazon.png" alt="Logo" height=460>
 </p>
     
 
