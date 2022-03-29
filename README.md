@@ -26,15 +26,17 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## :rocket: Tecnology
+
 -  Dart
 -  Flutter
--  
+
 ## 💻 About the Project
 
 Amazon interface redesigned and developed with Flutter, with the aim of studying and training skills for FrontEnd development.
 The project was inspired by the following design.
 
 ## Inspiration:
+
 -  https://lnkd.in/gtvf8nym
 
 
