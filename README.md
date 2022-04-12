@@ -1,10 +1,7 @@
-# flutter-amazon-ui
+# Flutter-Facebook-UI
 
-<h3 align = "center" fontSize="60px">
-  Flutter-Amazon-UI
-</h3>
 <p align="center">
-    <img src="./assets/images/amazon/Amazon.png" alt="Logo" height=460>
+    <img src="./screenshots/facebook.png" alt="Logo" height=460>
 </p>
     
 
@@ -16,19 +13,13 @@
 
 ## 💻 About the Project
 
-Amazon interface redesigned and developed with Flutter, with the aim of studying and training skills for FrontEnd development.
-The project was inspired by the following design.
-
-## Inspiration:
-
--  https://lnkd.in/gtvf8nym
-
+Facebook Interface developed with Flutter, with the aim of studying and training skills for FrontEnd and hybrid applications: Android, IOS and Web.
 
 ### Functionalities
 
-- [x] **Carousel listing**: Presents Scrool animation for product sections.
+- [x] **Carousel listing**: Features Scrool animation for Facebook UI stories.
 
-- [x] **Shopping cart Page**: Opens a cart page where all products for purchase are located.
+- [x] **Navigation Bar**: Navigation bar to access other pages within the application.
 
 
 
@@ -37,7 +28,7 @@ The project was inspired by the following design.
 Make a clone of this repository and access the directory.
 
 ```bash
-$ git clone git@github.com:afonsoburginski/flutter-amazon-ui.git && cd flutter-amazon-ui
+$ git clone git@github.com:afonsoburginski/flutter-facebook-ui.git && cd flutter-facebook-ui.git
 ```
 
 
@@ -61,7 +52,7 @@ Go to `fork` and clone the project from your user.
 
 ```bash
 # Cloning project
-$ git clone https://github.com/YOUR-USERNAME/flutter-amazon-ui.git
+$ git clone https://github.com/YOUR-USERNAME/flutter-facebook-ui.git
 
 # Create a branch
 $ git branch my-change
